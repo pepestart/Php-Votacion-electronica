@@ -1,0 +1,3 @@
+nombre de la base  :    votacion_electronica
+usuario  :  root
+clave : ''
